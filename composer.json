@@ -1,0 +1,10 @@
+{
+    "name": "mccreative/enquiry",
+    "description": "Product Enquiry section",
+    "authors": [{
+        "name": "ravinderphp",
+        "email": "ravinder@multichannelcreative.co.uk"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
